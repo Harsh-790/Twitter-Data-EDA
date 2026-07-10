@@ -26,7 +26,7 @@ This repository contains a comprehensive **Exploratory Data Analysis (EDA)**, da
 
 ---
 
-## 🔧 Prerequisites & Libraries Used
+##  Prerequisites & Libraries Used
 To run this notebook, you will need the following Python libraries installed:
 - `numpy` (v2.0.2)
 - `pandas` (v2.3.3)
